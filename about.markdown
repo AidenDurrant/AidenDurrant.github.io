@@ -18,7 +18,7 @@ More recently, I have been working as an early career researcher at the Universi
 
 #### Curriculum Vitae
 ----------------
-For my CV please see: [CV (Updated 02/2021)](Resources/cv.pdf)
+For my CV please see: [CV (Updated 02/2021)](Resources/CV.pdf)
 
 #### Selected Publications
 ----------------
