@@ -5,7 +5,7 @@ date:   2021-02-21 20:00:00 +0100
 categories: Me
 ---
 
-![Aiden](../Resources/profile_pic.jpg){:style="width: 200px; border-radius: 0% ;overflow: hidden; float: right; padding-left: 20px; padding-bottom: 20px"}
+![Aiden](./Resources/profile_pic.jpg){:style="width: 200px; border-radius: 0% ;overflow: hidden; float: right; padding-left: 20px; padding-bottom: 20px"}
 
 I'm Aiden, I am currently undertaking my PhD in Deep Learning, focussing on Unsupervised and Self-Supervised visual representational learning. Drop me an email or message if you are interested in anything I post about!
 
@@ -19,7 +19,7 @@ More recently, I have been working as an early career researcher at the Universi
 
 #### Curriculum Vitae
 ----------------
-For my CV please see: [CV (Updated 02/2021)](../Resources/CV.pdf)
+For my CV please see: [CV (Updated 02/2021)](./Resources/CV.pdf)
 
 #### Selected Publications
 ----------------
@@ -27,7 +27,7 @@ For my CV please see: [CV (Updated 02/2021)](../Resources/CV.pdf)
 
 [A. Durrant, M. Markovic, D. Matthews, D. May, G. Leontidis, and J. Enright, "How might technology rise to the challenge of data sharing in agri-food?", Global Food Security, 2021. Accepted/In Press](https://www.sciencedirect.com/science/article/abs/pii/S2211912421000031)
 
-[A. Durrant, G. Leontidis,  S. Kollias, L.A. Torres, C. Montalvo,  A. Mylonakis, C. Demaziere, and P. Vinai, "Detection and Localisation of Multiple In-core Perturbations with Neutron Noise-Based Self-Supervised Domain Adaptation", The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2021), 2021. Accepted/Pre-Print](../Resources/MC2021_ADurrant_Preprint.pdf)
+[A. Durrant, G. Leontidis,  S. Kollias, L.A. Torres, C. Montalvo,  A. Mylonakis, C. Demaziere, and P. Vinai, "Detection and Localisation of Multiple In-core Perturbations with Neutron Noise-Based Self-Supervised Domain Adaptation", The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2021), 2021. Accepted/Pre-Print](./Resources/MC2021_ADurrant_Preprint.pdf)
 
 [C. Demaziere, A. Mylonakis, P. Vinai, A. Durrant, F. De Sousa Ribeiro, J. Wingate, G. Leontidis, and S. Kollias, “Neutron Noise-based Anomaly Classification and Localization using Machine Learning”, International Conference on Physics of Reactors (PHYSOR), 2020.](http://eprints.lincoln.ac.uk/id/eprint/39440/)
 
