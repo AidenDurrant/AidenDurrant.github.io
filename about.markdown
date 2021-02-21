@@ -14,20 +14,20 @@ My began MPhil/PhD at the University of Lincoln, supervised by [Georgios Leontid
 
 Additionally, whilst at the University of Lincoln I worked as a Research Assistant on the CORe monitoring Techniques and EXperimental validation and demonstration (CORTEX). This involves the development of Machine Learning systems for the nuclear reactor in-core anomaly detection from induced neutron flux detector readings. The work achieved on this project contributes towards my PhD. For more details of the CORTEX project, please see: ([CORTEX](http://cortex-h2020.eu/))
 
-More recently, I have been working as an early career researcher at the University of Glasgow as part of the Internet of Food Things (IoFT) working group on Data Sharing and Interoperability for data trusts in the agrifood sector. We are investigating the potential technological solutions to challenges posed by data sharing within data trusts for the agri-food sector. ([IoFT WG: Data Trust](https://ioftdatatrustwg.github.io/))
+More recently, I have been working as an early career researcher at the University of Glasgow as part of the Internet of Food Things (IoFT) working group on Data Sharing and Interoperability for data trusts in the agrifood sector. We are investigating the potential technological solutions to challenges posed by data sharing within the agri-food sector. ([IoFT WG: Data Trust](https://ioftdatatrustwg.github.io/))
 
 #### Curriculum Vitae
 ----------------
-For my CV please see: [CV (Updated 04/2020)](../Resources/cv.pdf)
+For my CV please see: [CV (Updated 02/2021)](Resources/cv.pdf)
 
 #### Selected Publications
 ----------------
-[A. Durrant, M. Markovic, D. Matthews, D. May, G. Leontidis, and J. Enright, "How might technology rise to the challenge of data sharing in agri-food?", Global Food Security, 2021. Accepted/In Press]()
+[More soon to come, under blind review! Fingers crossed...]()
 
-[A. Durrant, G. Leontidis,  S. Kollias, L.A. Torres, C. Montalvo,  A. Mylonakis, C. Demaziere, and P. Vinai, "Detection and Localisation of Multiple In-core Perturbations with Neutron Noise-Based Self-Supervised Domain Adaptation", The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2021), 2021. Accepted]()
+[A. Durrant, M. Markovic, D. Matthews, D. May, G. Leontidis, and J. Enright, "How might technology rise to the challenge of data sharing in agri-food?", Global Food Security, 2021. Accepted/In Press](https://www.sciencedirect.com/science/article/abs/pii/S2211912421000031)
+
+[A. Durrant, G. Leontidis,  S. Kollias, L.A. Torres, C. Montalvo,  A. Mylonakis, C. Demaziere, and P. Vinai, "Detection and Localisation of Multiple In-core Perturbations with Neutron Noise-Based Self-Supervised Domain Adaptation", The International Conference on Mathematics and Computational Methods Applied to Nuclear Science and Engineering (M&C 2021), 2021. Accepted/Pre-Print](Resources/MC2021_ADurrant_Preprint.pdf)
 
 [C. Demaziere, A. Mylonakis, P. Vinai, A. Durrant, F. De Sousa Ribeiro, J. Wingate, G. Leontidis, and S. Kollias, “Neutron Noise-based Anomaly Classification and Localization using Machine Learning”, International Conference on Physics of Reactors (PHYSOR), 2020.](http://eprints.lincoln.ac.uk/id/eprint/39440/)
 
 [A. Durrant, G. Leontidis, and S. Kollias, “3D convolutional and recurrent neural networks for reactor perturbation unfolding and anomaly detection”, EPJ Nuclear Sciences & Technologies, 2019.](https://aura.abdn.ac.uk/bitstream/handle/2164/14170/Durrant_EPJN_3DConvolutional_VoR.pdf?sequence=1)
-
-
